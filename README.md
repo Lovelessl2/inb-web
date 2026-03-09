@@ -1,4 +1,4 @@
-# Sitio Web Instituto Nacional de Berlín Profesor Gabriel Humberto Rodríguez
+# Sitio Web Instituto Nacional de Berlín Profesor Gabriel Humberto Rodríguez.
 
 Sitio web institucional desarrollado como proyecto académico.
 
