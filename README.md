@@ -1,2 +1,12 @@
-# inb-web
-Este es un sitio web que fue creado como proyecto académico para mejorar la comunicación y uso de información oficial con profesores, alumnos y padres de familia.
+# Sitio Web Instituto Nacional de Berlín Profesor Gabriel Humberto Rodríguez
+
+Sitio web institucional desarrollado como proyecto académico.
+
+## Tecnologías
+- HTML
+- CSS
+- JavaScript
+- Diseño responsive
+
+## Autor
+Daniel Escalante
